@@ -45,7 +45,7 @@ jobs:
         run: yarn install
 
       - name: Build React App
-        run: yarn run dev
+        run: yarn build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
