@@ -23,13 +23,13 @@ export default function QnA() {
       id: 1,
       question: "What is a blockchain-based chit fund?",
       answer:
-        "A blockchain-based chit fund leverages blockchain technology to provide transparency, security, and efficiency in managing contributions, bids, and payouts, eliminating the risks of fraud and manipulation.",
+        "A blockchain-based chit fund leverages blockchain technology to provide transparency, security and efficiency in managing contributions, bids and payouts eliminating the risks of fraud and manipulation.",
     },
     {
       id: 2,
       question: "How does blockchain improve transparency in chit funds?",
       answer:
-        "All transactions are recorded on an immutable ledger, visible to all participants. This ensures every contribution, bid, and payout is tracked and cannot be altered.",
+        "All transactions are recorded on an immutable ledger, visible to all participants. This ensures every contribution, bid and payout is tracked and cannot be altered.",
     },
     {
       id: 3,
@@ -47,7 +47,7 @@ export default function QnA() {
       id: 5,
       question: "Can I track my contributions and payouts in real-time?",
       answer:
-        "Yes, participants have access to a dashboard or app that provides real-time updates on contributions, bidding processes, and payout statuses.",
+        "Yes, participants have access to a dashboard or app that provides real-time updates on contributions, bidding processes and payout statuses.",
     }
   ];
   const questions2 = [
@@ -67,7 +67,7 @@ export default function QnA() {
       id: 8,
       question: "How are participants verified?",
       answer:
-        "Participants are verified using digital identity systems, such as KYC (Know Your Customer) processes, ensuring only legitimate users can join.",
+        "Participants are verified using digital identity systems such as KYC (Know Your Customer) processes, ensuring only legitimate users can join.",
     },
     {
       id: 9,
@@ -79,7 +79,7 @@ export default function QnA() {
       id: 10,
       question: "What are the benefits compared to traditional chit funds?",
       answer:
-        "Blockchain-based chit funds offer increased transparency, reduced risks, automated processes, faster payouts, and a secure system for all participants.",
+        "Blockchain-based chit funds offer increased transparency, reduced risks, automated processes, faster payouts and a secure system for all participants.",
     }
   ];
 
@@ -87,7 +87,7 @@ export default function QnA() {
     <section className="QnA">
       <div className="container-fluid">
         <div className="row">
-          <h2>ASKED <span>QUESTIONS</span></h2>
+          <h2>FREQUENTLY ASKED <span>QUESTIONS</span></h2>
         </div>
         <div className="row">
           <div className="col-md-6 card">

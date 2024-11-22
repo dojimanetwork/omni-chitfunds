@@ -20,7 +20,7 @@ export default function Why() {
                     <div className="card-body">
                       <h5 className="card-title">Enhanced Transparency</h5>
                       <p className="card-text">All transactions and contributions are recorded on a publicly verifiable blockchain ledger.
-                      .</p>
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -35,7 +35,7 @@ export default function Why() {
                   <div className="col-md-8">
                     <div className="card-body">
                       <h5 className="card-title">Digital Identity Verification</h5>
-                      <p className="card-text">Secure, verified registration of contributors using digital identities</p>
+                      <p className="card-text">Secure, verified registration of contributors using digital identities.</p>
                     </div>
                   </div>
                 </div>
@@ -50,7 +50,7 @@ export default function Why() {
                   <div className="col-md-8">
                     <div className="card-body">
                       <h5 className="card-title">Secure Transactions</h5>
-                      <p className="card-text">Replaces cash transactions with digital payments using blockchain-based tokens or fiat currency through integrated payment gateways</p>
+                      <p className="card-text">Replaces cash transactions with digital payments using blockchain-based tokens or fiat currency through integrated payment gateways.</p>
                     </div>
                   </div>
                 </div>
@@ -104,7 +104,7 @@ export default function Why() {
                   <div className="col-md-8">
                     <div className="card-body">
                       <h5 className="card-title">Smart Contracts for Automation</h5>
-                      <p className="card-text">Smart contracts automatically handle bids, determine winners, and execute payouts based on pre-defined rules.</p>
+                      <p className="card-text">Smart contracts automatically handle bids, determine winners and execute payouts based on pre-defined rules.</p>
                     </div>
                   </div>
                 </div>

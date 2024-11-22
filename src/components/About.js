@@ -22,7 +22,7 @@ export default function About() {
             </p>
             <p className="about-content">
               We provide a modern solution to traditional chit funds, ensuring
-              trust, efficiency, and seamless management. With
+              trust, efficiency and seamless management. With
               blockchain-powered automation and real-time tracking, we help you
               securely grow and manage your financial contributions.
             </p>

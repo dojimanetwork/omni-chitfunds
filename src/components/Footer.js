@@ -33,8 +33,8 @@ const footerLinks = [
   { href: "/", text: "Blog" },
   { href: "/", text: "Privacy" },
   { href: "/", text: "Terms of use" },
-  { href: "/", text: "Sign In" },
-  { href: "/", text: "Sign Up" },
+  // { href: "/", text: "Sign In" },
+  // { href: "/", text: "Sign Up" },
 ];
 
 export default function Footer() {
@@ -68,8 +68,8 @@ export default function Footer() {
             ))}
           </ul>
 
-          <p className="copy">© 2023 Nerko. All rights reserved.</p>
-          <p className="credit">Coded with 💜 by <a href="https://github.com/s-shemmee" target="_blank" rel="noopener noreferrer">@s-shemmee</a></p>
+          <p className="copy">© 2024 Omni Chit Funds. All rights reserved.</p>
+          {/* <p className="credit">Coded with 💜 by <a href="https://github.com/s-shemmee" target="_blank" rel="noopener noreferrer">@s-shemmee</a></p> */}
         </div>
       </div>
     </section>
