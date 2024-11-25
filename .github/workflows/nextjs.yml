@@ -50,7 +50,8 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public # Update this path if your output folder is different
+          path: 
+            ./public # Update this path if your output folder is different
 
   # Deployment job
   deploy:
